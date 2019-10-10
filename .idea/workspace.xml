@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad9d0cf0-cb26-4363-8f22-f028dac36f68" name="Default Changelist" comment="" />
+    <list default="true" id="ad9d0cf0-cb26-4363-8f22-f028dac36f68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java 1/Lessons2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java 1/Lessons2/proba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons2/proba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +22,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RrxYUCpPNJ1HvG0jOKRAvE08us" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,13 +41,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2 (1)">
-    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lesson1.Main1" />
+  <component name="RunManager" selected="Application.proba">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons2.Main" />
       <module name="Java 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lesson1.*" />
+          <option name="PATTERN" value="Lessons2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -42,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.java1.lesson1.Main1" />
+    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lesson1.Main1" />
       <module name="Java 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.geekbrains.java1.lesson1.*" />
+          <option name="PATTERN" value="ru.lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.java1.lesson1.MainClass" />
+    <configuration name="proba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons2.proba" />
       <module name="Java 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.geekbrains.java1.lesson1.*" />
+          <option name="PATTERN" value="Lessons2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.proba" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main2 (1)" />
         <item itemvalue="Application.MainC" />
         <item itemvalue="Application.Main1 (1)" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -116,5 +129,16 @@
       <updated>1570439064586</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
