@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad9d0cf0-cb26-4363-8f22-f028dac36f68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 1/Lessons2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 1/Lessons2/proba.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons2/proba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons2/Cikl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons2/bloc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons2/cikl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons2/neopredC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons2/vlcikl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,9 +41,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.proba">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons2.Main" />
+  <component name="RunManager" selected="Application.bloc">
+    <configuration name="Cikl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons2.Cikl" />
       <module name="Java 1" />
       <extension name="coverage">
         <pattern>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lesson1.Main1" />
+    <configuration name="bloc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons2.bloc" />
       <module name="Java 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lesson1.*" />
+          <option name="PATTERN" value="Lessons2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lesson1.Main2" />
+    <configuration name="cikl2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons2.cikl2" />
       <module name="Java 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lesson1.*" />
+          <option name="PATTERN" value="Lessons2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz1.MainC" />
+    <configuration name="neopredC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons2.neopredC" />
       <module name="Java 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz1.*" />
+          <option name="PATTERN" value="Lessons2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="proba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons2.proba" />
+    <configuration name="vlcikl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons2.vlcikl" />
       <module name="Java 1" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.proba" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main2 (1)" />
-        <item itemvalue="Application.MainC" />
-        <item itemvalue="Application.Main1 (1)" />
+        <item itemvalue="Application.bloc" />
+        <item itemvalue="Application.neopredC" />
+        <item itemvalue="Application.vlcikl" />
+        <item itemvalue="Application.cikl2" />
+        <item itemvalue="Application.Cikl" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +135,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
